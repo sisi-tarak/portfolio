@@ -1,0 +1,8 @@
+.social-media > a {
+  height: 50;
+  width: 50;
+  font-size: 30px;
+  color: var(--main-color);
+  border: 1px solid var(--main-color);
+  border-radius: 100%;
+}
