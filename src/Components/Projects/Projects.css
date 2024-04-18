@@ -1,0 +1,13 @@
+#projects {
+  background: var(--second-bg-color);
+}
+
+.projImg {
+  cursor: none;
+  transition: 0.3s ease-in-out;
+}
+
+.projImg:hover {
+  scale: 1.05;
+  transition: 0.3s ease-in-out;
+}

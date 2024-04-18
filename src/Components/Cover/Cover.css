@@ -7,18 +7,14 @@
   background: transparent;
   border: 0.15rem solid var(--main-color);
   border-radius: 50%;
-  font-size: 1.4rem;
+  font-size: 1rem;
   color: var(--main-color);
   transition: 0.5s ease;
 }
 
-.social-media > a > i {
-  font-weight: 300;
-  font-style: normal;
-  font-variant: normal;
-  line-height: 1;
-  text-rendering: auto;
-  display: inline-block;
-  text-transform: none;
-  -webkit-font-smoothing: antialiased;
+.social-media > a:hover {
+  background: var(--main-color);
+  color: var(--second-bg-color) !important;
+  box-shadow: 0 0 1 rem var(--main-color);
+  transition: 0.5s ease;
 }
