@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg fixed-top">
       <div className="container my-2 pl-5">
-        <a href="/" className="navbar-brand navLink font-weight-normal">
+        <a href="/" className="navbar-brand headerLink">
           sisi_tarak
         </a>
 
@@ -21,16 +21,16 @@ const Navbar = () => {
             <a href="#home" className="navLink nav-link mx-1 active">
               Home
             </a>
-            <a href="#projects" className="navLink nav-link mx-1">
+            <a href="#projects" className="navLink nav-link mx-2">
               Projects
             </a>
-            <a href="#skills" className="navLink nav-link mx-1">
+            <a href="#skills" className="navLink nav-link mx-2">
               Skills
             </a>
-            <a href="#about" className="navLink nav-link mx-1">
+            <a href="#about" className="navLink nav-link mx-2">
               About
             </a>
-            <a href="#contactme" className="navLink nav-link mx-1">
+            <a href="#contactme" className="navLink nav-link mx-2">
               Contact
             </a>
           </div>
