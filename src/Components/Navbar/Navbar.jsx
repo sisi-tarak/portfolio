@@ -21,14 +21,14 @@ const Navbar = () => {
             <a href="#home" className="navLink nav-link mx-1 active">
               Home
             </a>
-            <a href="#projects" className="navLink nav-link mx-2">
-              Projects
+            <a href="#about" className="navLink nav-link mx-2">
+              About
             </a>
             <a href="#skills" className="navLink nav-link mx-2">
               Skills
             </a>
-            <a href="#about" className="navLink nav-link mx-2">
-              About
+            <a href="#projects" className="navLink nav-link mx-2">
+              Projects
             </a>
             <a href="#contactme" className="navLink nav-link mx-2">
               Contact

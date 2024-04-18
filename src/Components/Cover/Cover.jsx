@@ -3,7 +3,7 @@ import "./Cover.css";
 
 const Cover = () => {
   return (
-    <div className="container py-5 my-5">
+    <div className="container py-5 mb-5 my-5">
       <div className="row align-items-center my-5 py-5">
         <div className="col-lg-7 py-5 order-2 order-lg-1 px-4">
           <h4 className="font-weight-bold">Hello, Its me</h4>

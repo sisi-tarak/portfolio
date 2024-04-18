@@ -70,6 +70,12 @@ h4 {
   line-height: 1.1 !important;
 }
 
+h3 {
+  font-size: 3.3rem !important;
+  font-weight: 600 !important;
+  line-height: 1.2rem !important;
+}
+
 h2 {
   font-size: 4.2rem !important;
   font-weight: 700 !important;
@@ -88,7 +94,7 @@ span {
 
 .button {
   display: inline-block;
-  padding: .8rem 1.6rem;
+  padding: 0.8rem 1.6rem;
   background: var(--main-color);
   border-radius: 4rem;
   box-shadow: 0 0 1rem var(--main-color);
