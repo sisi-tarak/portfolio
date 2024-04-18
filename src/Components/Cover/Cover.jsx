@@ -36,7 +36,11 @@ const Cover = () => {
           </button>
         </div>
         <div className="col-12 col-lg-4 offset-lg-1 py-5">
-          <h3 className="font-weight-bold">Hii, this is</h3>
+          <img
+            src="/home/user/my-portfolio/src/assets/sisi_tarak.png"
+            alt="sisi_tarak"
+            className="img-fluid"
+          />
         </div>
       </div>
     </div>
