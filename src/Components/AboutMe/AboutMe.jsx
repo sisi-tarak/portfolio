@@ -17,9 +17,11 @@ const AboutMe = () => {
             />
           </div>
           <div className="col-12 col-lg-7 mx-3 pl-5 aboutRight">
-            <h4 className="aboutName">Sisindri Singamsetti</h4>
+            <h4 className="mt-5">Sisindri Singamsetti</h4>
             <h6 className="mt-4 mb-5">
-              Front-end <span>Developer</span>!
+              <i>
+                Front-end <span>Developer</span>!
+              </i>
             </h6>
             <p className="py-2">
               I am a front-end developer looking for opportunities to expand my
@@ -33,6 +35,9 @@ const AboutMe = () => {
               contribute to projects that allow me to expand my experience and
               knowledge.
             </p>
+            <button href="#" className="button mt-3 mb-4">
+              Read More...
+            </button>
           </div>
         </div>
       </div>
