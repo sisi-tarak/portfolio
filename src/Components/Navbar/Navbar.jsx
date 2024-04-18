@@ -18,19 +18,19 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse flex-grow-0" id="collapseNav">
           <div className="navbar-nav font-weight-normal text-center">
-            <a href="#" className="navLink nav-link mx-1">
+            <a href="#home" className="navLink nav-link mx-1 active">
               Home
             </a>
-            <a href="#" className="navLink nav-link mx-1">
+            <a href="#projects" className="navLink nav-link mx-1">
               Projects
             </a>
-            <a href="#" className="navLink nav-link mx-1">
+            <a href="#skills" className="navLink nav-link mx-1">
               Skills
             </a>
-            <a href="#" className="navLink nav-link mx-1">
+            <a href="#about" className="navLink nav-link mx-1">
               About
             </a>
-            <a href="#" className="navLink nav-link mx-1">
+            <a href="#contactme" className="navLink nav-link mx-1">
               Contact
             </a>
           </div>

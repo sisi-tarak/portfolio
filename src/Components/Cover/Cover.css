@@ -1,8 +1,24 @@
 .social-media > a {
-  height: 50;
-  width: 50;
-  font-size: 30px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  background: transparent;
+  border: 0.15rem solid var(--main-color);
+  border-radius: 50%;
+  font-size: 1.4rem;
   color: var(--main-color);
-  border: 1px solid var(--main-color);
-  border-radius: 100%;
+  transition: 0.5s ease;
+}
+
+.social-media > a > i {
+  font-weight: 300;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+  display: inline-block;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
 }

@@ -3,19 +3,19 @@ import "./Cover.css";
 
 const Cover = () => {
   return (
-    <div className="container my-5 py-5">
-      <div className="row my-5">
-        <div className="col-12 col-lg-5">
-          <h3 className="font-weight-bold">Hello, Its me</h3>
-          <h1 className="font-weight-bold">sisi_tarak</h1>
-          <h3 className="font-weight-bold">
+    <div className="container py-5 my-5">
+      <div className="row align-items-center my-5 py-5">
+        <div className="col-lg-7 py-5 px-4">
+          <h4 className="font-weight-bold">Hello, Its me</h4>
+          <h2 className="font-weight-bold">sisi_tarak</h2>
+          <h4 className="font-weight-bold mb-4 pb-2">
             I'm a <span>Web Developer</span>
-          </h3>
+          </h4>
           <p className="font-weight-normal">
             I'm a Student. Insterested in Web Development and Freelancing
           </p>
 
-          <div className="social-media">
+          <div className="social-media py-3">
             <a href="#" className="mx-2">
               <i className="fa-brands fa-linkedin-in"></i>
             </a>
@@ -26,14 +26,17 @@ const Cover = () => {
               <i className="fa-brands fa-instagram"></i>
             </a>
           </div>
-
-          <a href="Add your Resume" target="_blank" download className="btn">
+          <button
+            href="Add your Resume"
+            target="_blank"
+            download
+            className="button my-3"
+          >
             Download Resume
-          </a>
+          </button>
         </div>
-
-        <div className="col-12 col-lg-5">
-          hii welcome to sisitarak portfolio
+        <div className="col-12 col-lg-4 offset-lg-1 py-5">
+          <h3 className="font-weight-bold">Hii, this is</h3>
         </div>
       </div>
     </div>
