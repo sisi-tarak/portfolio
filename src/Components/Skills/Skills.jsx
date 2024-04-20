@@ -91,8 +91,14 @@ const Skills = () => {
               <span> 3s into 4s</span>, and <span>4s into 5s</span>, one at a
               time..!!
             </p>
+            <img
+              src="../src/assets/sign.png"
+              alt="sisi_tarak"
+              className="img-fluid rounded w-50"
+              id="sign"
+            />
           </div>
-          <div className="col-12 col-lg-6 my-3">
+          <div className="col-12 col-lg-6 my-3" id="skillImg">
             <img
               src="../src/assets/s.jpg"
               alt="sisi_tarak"
