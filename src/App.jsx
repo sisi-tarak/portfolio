@@ -6,6 +6,7 @@ import DivSpace from "./Components/DivSpace/DivSpace.jsx";
 import Projects from "./Components/Projects/Projects.jsx";
 import ContactMe from "./Components/ContactMe/ContactMe.jsx";
 import Skills from "./Components/Skills/Skills.jsx";
+import Footer from "./Components/Footer/Footer.jsx";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Skills />
       <Projects />
       <ContactMe />
+      <Footer />
     </>
   );
 };
