@@ -1,0 +1,26 @@
+input , textarea {
+  background-color: var(--second-bg-color) !important;
+  color: var(--text-color);
+  border: 1px solid var(--second-bg-color) !important;
+}
+
+input {
+    height: 40px;
+}
+
+input::placeholder {
+  color: rgba(146, 155, 155, 0.5) !important;
+}
+
+.formControl {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--text-color);
+  appearance: none;
+  background-clip: padding-box;
+  border-radius: 0.5rem;
+}

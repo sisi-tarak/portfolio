@@ -36,7 +36,7 @@ const AboutMe = () => {
               knowledge.
             </p>
             <button href="#" className="button mt-3 mb-4">
-              Read More...
+              Read More...😉
             </button>
           </div>
         </div>

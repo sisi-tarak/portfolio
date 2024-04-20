@@ -44,7 +44,7 @@ const Cover = () => {
             download
             className="button my-3"
           >
-            Download Resume
+            Download Resume🫠
           </button>
         </div>
         <div className="col-12 col-lg-4 offset-lg-1 text-center order-1 order-lg-2 py-5">

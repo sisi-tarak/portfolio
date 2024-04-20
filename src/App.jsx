@@ -4,6 +4,7 @@ import Cover from "./Components/Cover/Cover.jsx";
 import AboutMe from "./Components/AboutMe/AboutMe.jsx";
 import DivSpace from "./Components/DivSpace/DivSpace.jsx";
 import Projects from "./Components/Projects/Projects.jsx";
+import ContactMe from "./Components/ContactMe/ContactMe.jsx";
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
       <DivSpace />
       <AboutMe />
       <Projects />
+      <ContactMe/>
     </>
   );
 };
