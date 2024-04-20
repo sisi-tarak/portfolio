@@ -5,6 +5,7 @@ import AboutMe from "./Components/AboutMe/AboutMe.jsx";
 import DivSpace from "./Components/DivSpace/DivSpace.jsx";
 import Projects from "./Components/Projects/Projects.jsx";
 import ContactMe from "./Components/ContactMe/ContactMe.jsx";
+import Skills from "./Components/Skills/Skills.jsx";
 
 const App = () => {
   return (
@@ -13,8 +14,9 @@ const App = () => {
       <Cover />
       <DivSpace />
       <AboutMe />
+      <Skills />
       <Projects />
-      <ContactMe/>
+      <ContactMe />
     </>
   );
 };
