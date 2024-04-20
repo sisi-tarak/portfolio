@@ -24,16 +24,16 @@ const AboutMe = () => {
               </i>
             </h6>
             <p className="py-2">
-              I am a front-end developer looking for opportunities to expand my
-              skills in Full-Satck Developement. I have knowledge of HTML, CSS,
-              Bootstrap, JavaScript, React and some other stuff, and I am
-              committed to improving my proficiency in these technologies.
+              I'm a front-end developer eager to grow into Full-Stack
+              Development. I'm skilled in HTML, CSS, Bootstrap, JavaScript, and
+              React, with a keen interest in learning more. I'm committed to
+              honing my abilities in these areas.
             </p>
             <p className="py-2">
-              If you are looking for a motivated and dedicated front-end
-              developer, I am available for work opportunities and excited to
-              contribute to projects that allow me to expand my experience and
-              knowledge.
+              If you're in need of a motivated front-end developer, I'm here and
+              ready to contribute. I'm excited about opportunities to broaden my
+              skills and make meaningful contributions to projects. Let's work
+              together!
             </p>
             <button href="#" className="button mt-3 mb-4">
               Read More...😉
