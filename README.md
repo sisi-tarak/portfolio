@@ -1,8 +1,25 @@
-# React + Vite
+### Hi there 👋
+>      I am Sisindri Singamsetti alias sisi_tarak 😉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🖥 About Mee!
+
+I am Full-stack Web Developer, Tech Lead & Tech Enthusiast from 🛕 India 🇮🇳.
+
+- 🧑🏻‍🎓 | Dip UG @svec'23 CME
+- 🎯 | Web Developer @sisitarakk
+- 🧑🏻‍💻 | Full Stack Developer
+- ✊ | Student Ambassador @Mass Coders
+
+
+![git](https://github.com/sisi-tarak/sisi-tarak/assets/124027883/5e0032f9-38ae-4ee8-be78-4a0c9e1643eb)
+
+
+### 👨‍💻 Social Platforms!!
+
+>   - 🫠 | [LinkedIN](https://www.linkedin.com/in/sisitarak/)
+>   - 🤩 | [GitHub](https://github.com/sisi-tarak)
+>   - 🫣 | [Instagram](https://www.instagram.com/sisi_tarakk/)
+
+
