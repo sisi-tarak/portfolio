@@ -61,7 +61,7 @@ const ContactMe = () => {
           </div>
         </div>
         <button type="submit" className="button mt-5">
-          Send Message🫣
+          Send Message🤩
         </button>
       </form>
     </div>
