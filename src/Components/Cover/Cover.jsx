@@ -7,7 +7,7 @@ const Cover = () => {
       <div className="row align-items-center my-5 py-5">
         <div className="col-lg-7 py-5 order-2 order-lg-1 px-4">
           <h4 className="font-weight-bold">Hello, Its me</h4>
-          <h2 className="font-weight-bold">sisi_tarak</h2>
+          <h2 className="font-weight-bold">Rajkumar Ramineni</h2>
           <h4 className="font-weight-bold mb-4 pb-2">
             I'm a <span>Web Developer</span>
           </h4>
@@ -17,26 +17,26 @@ const Cover = () => {
 
           <div className="social-media py-3">
             <a
-              href="https://www.linkedin.com/in/sisitarak/"
+              href="https://www.linkedin.com/in/rajkumar-ramineni-b671b7192/"
               target="_blank"
               className="mx-2"
             >
               <i className="fa-brands fa-linkedin-in"></i>
             </a>
             <a
-              href="https://github.com/sisi-tarak/"
+              href="https://github.com/RAJKUMAR1993"
               target="_blank"
               className="mx-2"
             >
               <i className="fa-brands fa-github"></i>
             </a>
-            <a
+            {/* <a
               href="https://www.instagram.com/sisi_tarakk/"
               target="_blank"
               className="mx-2"
             >
               <i className="fa-brands fa-instagram"></i>
-            </a>
+            </a> */}
           </div>
           <button
             href="Add your Resume"
